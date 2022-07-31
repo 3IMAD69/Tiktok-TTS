@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Tiktok-TTS/static/css/main.70994d15.css",
-    "main.js": "/Tiktok-TTS/static/js/main.29bc6bd6.js",
+    "main.css": "/Tiktok-TTS/static/css/main.ba6fdc7f.css",
+    "main.js": "/Tiktok-TTS/static/js/main.895ad027.js",
     "static/js/787.bcd3f321.chunk.js": "/Tiktok-TTS/static/js/787.bcd3f321.chunk.js",
     "static/media/resized2.png": "/Tiktok-TTS/static/media/resized2.d19345c97d1716f55c18.png",
     "index.html": "/Tiktok-TTS/index.html",
-    "main.70994d15.css.map": "/Tiktok-TTS/static/css/main.70994d15.css.map",
-    "main.29bc6bd6.js.map": "/Tiktok-TTS/static/js/main.29bc6bd6.js.map",
+    "main.ba6fdc7f.css.map": "/Tiktok-TTS/static/css/main.ba6fdc7f.css.map",
+    "main.895ad027.js.map": "/Tiktok-TTS/static/js/main.895ad027.js.map",
     "787.bcd3f321.chunk.js.map": "/Tiktok-TTS/static/js/787.bcd3f321.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70994d15.css",
-    "static/js/main.29bc6bd6.js"
+    "static/css/main.ba6fdc7f.css",
+    "static/js/main.895ad027.js"
   ]
 }
